@@ -1,7 +1,10 @@
 {
-  "name": "package-b",
-  "version": "1.0.1",
+  "name": "@lhlhlhlhl/package-b",
+  "version": "2.0.0",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

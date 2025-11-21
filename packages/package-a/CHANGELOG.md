@@ -1,5 +1,25 @@
 # package-a
 
+## 2.0.0
+
+### Major Changes
+
+- 创建 changeset
+
+### Minor Changes
+
+- 添加了新的功能，准备进行测试发布
+
+## 2.0.0-prerelease.0
+
+### Major Changes
+
+- 创建 changeset
+
+### Minor Changes
+
+- 添加了新的预发布功能，准备进行测试发布
+
 ## 1.1.0
 
 ### Minor Changes
